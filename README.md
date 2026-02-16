@@ -4,6 +4,22 @@
 
 Explore real-world examples showcasing Seedance 2.0's multi-modal AI video creation capabilities. Each prompt demonstrates input references and generated results.
 
+### Table of Contents
+
+- [Enhanced Fundamentals](#enhanced-fundamentals)
+- [Consistency Enhancement](#consistency-enhancement)
+- [Camera & Motion Replication](#camera-motion-replication)
+- [Creative Templates & Effects](#creative-templates-effects)
+- [Creative Story Completion](#creative-story-completion)
+- [Video Extension](#video-extension)
+- [Audio & Voice Precision](#audio-voice-precision)
+- [One-Shot Continuity](#one-shot-continuity)
+- [Video Editing](#video-editing)
+- [Music Beat Sync](#music-beat-sync)
+- [Emotional Performance](#emotional-performance)
+
+---
+
 ## Enhanced Fundamentals
 
 More realistic physics, smoother motion, more precise instruction understanding, more stable style
